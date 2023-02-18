@@ -1,0 +1,21 @@
+*{
+  padding: 5px;
+  background-color: pink;
+  font-family: 'Times New Roman', Times, serif;
+  font-size:25px;
+}
+h1{
+  text-align: center;
+  font-size: 50px;
+}
+#timecount{
+  background-color: aliceblue;
+  width: 250px;
+  height:50px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+#current-time{
+  padding-left: 120px;
+}
